@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+	<!--
+	以下の記事の対応
+	http://stackoverflow.com/questions/31712563/error-inflating-class-android-support-design-widget-tablayout
+	-->
+    <style name="MyCustomTabLayout" parent="Widget.Design.TabLayout">
+        <item name="tabIndicatorColor">#FF4081</item>
+    </style>
+</resources>
