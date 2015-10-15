@@ -79,6 +79,7 @@
     <Compile Include="SplashScreen.cs" />
     <Compile Include="LinkerPleaseInclude.cs" />
     <Compile Include="Views\DetailFragment.cs" />
+    <Compile Include="Views\HomeTabActivity.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
@@ -102,6 +103,7 @@
     <AndroidResource Include="Resources\drawable\splash.png" />
     <AndroidResource Include="Resources\layout\Fragment_Detail.axml" />
     <AndroidResource Include="Resources\layout\Fragment_Sub.axml" />
+    <AndroidResource Include="Resources\layout\TabView.axml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <ItemGroup>
