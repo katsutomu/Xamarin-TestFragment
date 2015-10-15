@@ -10,7 +10,6 @@ namespace Core
                 .EndingWith("Service")
                 .AsInterfaces()
                 .RegisterAsLazySingleton();
-				
             RegisterAppStart<ViewModels.FirstViewModel>();
         }
     }

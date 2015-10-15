@@ -101,6 +101,7 @@
     <AndroidResource Include="Resources\values\SplashStyle.xml" />
     <AndroidResource Include="Resources\drawable\splash.png" />
     <AndroidResource Include="Resources\layout\Fragment_Detail.axml" />
+    <AndroidResource Include="Resources\layout\Fragment_Sub.axml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <ItemGroup>

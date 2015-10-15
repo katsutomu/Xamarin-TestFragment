@@ -33,6 +33,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ViewModels\FirstViewModel.cs" />
     <Compile Include="App.cs" />
+    <Compile Include="ViewModels\DetailViewModel.cs" />
+    <Compile Include="ViewModels\SubViewModel.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
   <ItemGroup>
